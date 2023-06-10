@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry.rivera\\Desktop\\expediente\\ws.expediente\\ws.expediente.csproj": {}
+    "C:\\Users\\henry\\Desktop\\Expediente\\ws.expediente\\ws.expediente.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry.rivera\\Desktop\\expediente\\ws.expediente\\ws.expediente.csproj": {
+    "C:\\Users\\henry\\Desktop\\Expediente\\ws.expediente\\ws.expediente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry.rivera\\Desktop\\expediente\\ws.expediente\\ws.expediente.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Desktop\\Expediente\\ws.expediente\\ws.expediente.csproj",
         "projectName": "ws.expediente",
-        "projectPath": "C:\\Users\\henry.rivera\\Desktop\\expediente\\ws.expediente\\ws.expediente.csproj",
-        "packagesPath": "C:\\Users\\henry.rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry.rivera\\Desktop\\expediente\\ws.expediente\\obj\\",
+        "projectPath": "C:\\Users\\henry\\Desktop\\Expediente\\ws.expediente\\ws.expediente.csproj",
+        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry\\Desktop\\Expediente\\ws.expediente\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\henry.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,16 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -60,15 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

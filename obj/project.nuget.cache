@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6AWTARa2uZYUU4DpoA6jpHuUpdxEb6qkAo/zi2oME4azv3ZGojKXriLds3nnAE7XfbwXIfiPppWXOgyIwxHMQ==",
+  "dgSpecHash": "K9u7HFgvybBNJgmHVidr6G1vJZly8faqi9DQR4no0YO7LgTkOefXhpI/7BDBNZ64Sciosy2bEfYMqjB0J1BYCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henry.rivera\\Desktop\\expediente\\ws.expediente\\ws.expediente.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\henry.rivera\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\henry\\Desktop\\Expediente\\ws.expediente\\ws.expediente.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
